@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void ClickMyButton(View view) {
+    public void clickMyButton(View view) {
 
 //        creating new thread - without interface
 
